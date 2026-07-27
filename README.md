@@ -19,3 +19,6 @@ A Java-based Student Grade Tracker application developed using Object-Oriented P
 - ArrayList Collection Framework
 
 ## 📂 Project Structure
+## 📸 Project Output
+
+![Student Grade Tracker Output](screenshots/output.png)
